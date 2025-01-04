@@ -4,6 +4,5 @@ User Function Teste()
 
     MsgStop( U_fontenovo(1,1) )
     MsgStop( "Acertei?" )
-    //teste2
-
+    
 Return Nil
