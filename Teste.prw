@@ -2,7 +2,7 @@
 
 User Function Teste()
 
-    MsgStop( "Não implementado!" )
-    //Continuar a implementação.
+    MsgStop( U_fontenovo(1,1) )
+    MsgStop( "Acertei?" )
 
 Return Nil
