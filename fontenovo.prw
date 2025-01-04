@@ -1,7 +1,7 @@
 #INCLUDE "TOTVS.CH"
 
-User Function fontenovo()
+User Function fontenovo(nVal1, nVal2)
 
-    // Implementar.
+    Local nSoma := nVal1 + nVal2
 
-Return Nil
+Return ( nSoma )
