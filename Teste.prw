@@ -2,6 +2,6 @@
 
 User Function Teste()
 
-    // Implementar função.
+    MsgStop( "Não implementado!" )
 
 Return Nil
